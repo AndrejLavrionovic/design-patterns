@@ -1,3 +1,5 @@
 # intellij
 .idea/
 *.iml
+bin/
+
